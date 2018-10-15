@@ -3,11 +3,11 @@
   <title>小摇歌</title>
   
   <subtitle>个人工作、学习、生活的感悟及所得</subtitle>
-  <link href="/sit/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="https://xiaoyaoge.github.io/sit/"/>
+  <link href="https://xiaoyaoge.github.io/"/>
   <updated>2018-10-15T08:21:21.796Z</updated>
-  <id>https://xiaoyaoge.github.io/sit/</id>
+  <id>https://xiaoyaoge.github.io/</id>
   
   <author>
     <name>Owen</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>JavaScript 对象</title>
-    <link href="https://xiaoyaoge.github.io/sit/2018/10/15/object/"/>
-    <id>https://xiaoyaoge.github.io/sit/2018/10/15/object/</id>
+    <link href="https://xiaoyaoge.github.io/2018/10/15/object/"/>
+    <id>https://xiaoyaoge.github.io/2018/10/15/object/</id>
     <published>2018-10-15T05:25:24.000Z</published>
     <updated>2018-10-15T08:21:21.796Z</updated>
     
@@ -32,17 +32,17 @@
     
     </summary>
     
-      <category term="web前端" scheme="https://xiaoyaoge.github.io/sit/categories/web%E5%89%8D%E7%AB%AF/"/>
+      <category term="web前端" scheme="https://xiaoyaoge.github.io/categories/web%E5%89%8D%E7%AB%AF/"/>
     
     
-      <category term="JavaScript" scheme="https://xiaoyaoge.github.io/sit/tags/JavaScript/"/>
+      <category term="JavaScript" scheme="https://xiaoyaoge.github.io/tags/JavaScript/"/>
     
   </entry>
   
   <entry>
     <title>AMD，CMD 规范详解</title>
-    <link href="https://xiaoyaoge.github.io/sit/2017/03/20/AMD-CMD/"/>
-    <id>https://xiaoyaoge.github.io/sit/2017/03/20/AMD-CMD/</id>
+    <link href="https://xiaoyaoge.github.io/2017/03/20/AMD-CMD/"/>
+    <id>https://xiaoyaoge.github.io/2017/03/20/AMD-CMD/</id>
     <published>2017-03-19T19:25:24.000Z</published>
     <updated>2018-10-15T05:46:18.648Z</updated>
     
@@ -54,10 +54,10 @@
     
     </summary>
     
-      <category term="web前端" scheme="https://xiaoyaoge.github.io/sit/categories/web%E5%89%8D%E7%AB%AF/"/>
+      <category term="web前端" scheme="https://xiaoyaoge.github.io/categories/web%E5%89%8D%E7%AB%AF/"/>
     
     
-      <category term="JavaScript" scheme="https://xiaoyaoge.github.io/sit/tags/JavaScript/"/>
+      <category term="JavaScript" scheme="https://xiaoyaoge.github.io/tags/JavaScript/"/>
     
   </entry>
   
